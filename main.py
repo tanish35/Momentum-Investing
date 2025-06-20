@@ -679,7 +679,7 @@ else:
     )
 
 final_value = cerebro.broker.getvalue()
-print(f"\nStarting Portfolio Value: ₹1,00,000.00")
+print("Starting Portfolio Value: ₹1,00,000.00")
 print(f"Final Portfolio Value: ₹{final_value:,.2f}")
 
 # Currently unrealized profits: Rs. 89,717 in 2 years, a return of 89.71% in 2 years

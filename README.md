@@ -1,5 +1,7 @@
 # Multi-Factor Momentum Trading Strategy
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/tanish35/Momentum-Investing)
+
 ## Overview
 
 This repository contains a sophisticated trading strategy implemented in Python using the `backtrader` framework. The strategy is designed to achieve robust portfolio performance by integrating multiple modern quantitative concepts. It combines a top-down market regime filter with a bottom-up, multi-factor stock selection process, and uses a risk-parity approach for capital allocation.
